@@ -1,7 +1,7 @@
 <!--
 **duyenle1312/duyenle1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <h1 align="center">Hi there 👋 I'm a Frontend Developer from Vietnam</h1>
 
