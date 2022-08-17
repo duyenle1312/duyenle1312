@@ -3,7 +3,7 @@
 --->
 &nbsp;&nbsp;
 
-<h1 align="center">Hi there 👋 I'm a Frontend Developer from Vietnam</h1>
+<h1 align="center">Hi there 👋 I'm a Full Stack Developer from Vietnam</h1>
 
 - 👋 Hi, I’m Duyen Le!
 - 🌱 I’m currently learning Web3.0, and launching my first FREE online Python course!!! 
