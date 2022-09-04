@@ -19,7 +19,7 @@ HTML, CSS, Javascript, React, Python, Firebase, AWS, Machine Learning/Deep Learn
 
 ## 🔥 Articles Read:
 <a href="https://app.daily.dev/duyenle">
-    <img src="https://api.daily.dev/devcards/2ed8c70064984751bf2a0b6530a9b920.png?r=1lt" width="222" alt="Duyen Le's Dev Card"/>
+    <img src="https://app.daily.dev/duyenle"><img src="https://api.daily.dev/devcards/2ed8c70064984751bf2a0b6530a9b920.png?r=1lt" width="222" alt="Duyen Le's Dev Card"/>
   </a>
 
 ## 📊 My Github Stats
