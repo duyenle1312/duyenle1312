@@ -6,7 +6,6 @@
 <h1 align="center">Hi there 👋 I'm a Full Stack Developer from Vietnam</h1>
 
 - 👋 Hi, I’m Duyen Le!
-- 🌱 I’m currently learning Web3.0, and launching my first FREE online Python course!!! 
 - 💞️ I’m looking to collaborate on any projects that would be beneficial to the future of humanity
 - 🔭 I’m currently working on Sound Off Music as a Head of Development, we are bring your favorite music competitions online and streaming around the world
 - 💬 Ask me about anything at duyenle131202@gmail.com
