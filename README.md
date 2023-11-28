@@ -3,17 +3,16 @@
 --->
 &nbsp;
 
-<h1 align="center">Hi there 👋 I'm a Full Stack Developer from Vietnam</h1>
+<h1 align="center">Hello 👋 I'm a Software Engineer</h1>
 
 - 👋 Hi, I’m Duyen Le!
-- 💞️ I’m looking to collaborate on any projects that would be beneficial to the future of humanity
-- 🔭 I’m currently working on Sound Off Music as a Head of Development, we are bring your favorite music competitions online and streaming around the world
-- 💬 Ask me about anything at duyenle131202@gmail.com
-- ⚡ Fun fact: I have been programming since age 14 and still trying to make the world better with my coding skills 💞️
+- 💞️ I’m looking to collaborate on any projects that are futuristic and challenging
+- 🔭 I’m currently founder of Neuron Autos (neuron.autos), making any websites easier using Notion editor
+- ⚡ Fun fact: I have been programming since age 14 and still trying to make better software products 💞️
 
 ## 🚀 Languages and Tools:
 
-HTML, CSS, Javascript, React, Python, Firebase, AWS, Machine Learning/Deep Learning, NLP, etc.
+Javascript, React, NextJS, Python, NLP, etc.
 <br/><br />
 
 ## 🔥 Articles Read:
