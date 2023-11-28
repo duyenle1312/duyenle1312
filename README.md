@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on any projects that are futuristic, AI and BCI-related and challenging ideas
 - 🔭 I’m currently founder of Neuron Autos (neuron.autos), making any websites easier using Notion editor
-- ⚡ Fun fact: I have been programming since high school and still trying to make the world a better place with helpful softwares 💞️
+- ⚡ Fun fact: I have been programming since high school and still trying to make the world a better place with helpful softwares
 
 ## 🚀 Languages and Tools:
 
