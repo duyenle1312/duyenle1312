@@ -13,7 +13,7 @@
 Javascript, React, NextJS, Python, NLP, etc.
 <br/><br />
 
-## Connect with me:
+## Connect with me on LinkedIn:
 
 <p align="left">
 
@@ -22,8 +22,5 @@ Javascript, React, NextJS, Python, NLP, etc.
 </p>
 
 ## ❤ Views and Followers
-
-<a href="https://www.github.com/duyenle1312" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/duyenle1312?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 **Page Views**(Counting since 9/9/2022): ![Visitor Count](https://profile-counter.glitch.me/duyenle1312/count.svg)
