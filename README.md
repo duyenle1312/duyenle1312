@@ -5,8 +5,9 @@
 
 <h1 align="center">Hello 👋 I'm an AI-native Product Engineer</h1>
 
-- 💞️ I’m looking to collaborate on any projects that are futuristic, AI and BCI-related and challenging ideas
+- 💞️ I’m looking to contribute to any projects that are futuristic, AI and BCI-related and moonshot!
 - ⚡ Fun fact: I have been programming since high school and still trying to make the world a better place with useful softwares
+- I read about Ancient Rome, philosophy, gender & race theories in my free time. 
 
 ## 🚀 Languages and Tools:
 
