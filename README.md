@@ -6,9 +6,9 @@
 <h1 align="center">Hello 👋 I'm an AI-native Product Engineer</h1>
 
 - I’m looking to contribute to any projects that are futuristic, AI, BCI-related and moonshot!
-- I have been programming since high school and still trying to make the world a better place with useful softwares
+- I have been programming since high school and still trying to make the world a better place with useful softwares.
 - I read about Ancient Rome, philosophy, psychology, anthropology, AI regulations & policies, gender & race theories in my free time.
-- I hope one day I could get a PhD in a humanity field even thought I have a Summa cum laude BA in Computer Science. 
+- I hope one day I could get a PhD in a humanity field even though I have a Summa cum laude BA in Computer Science. Maybe AI Ethics wouldn't be too bad! :D
 
 ## 🚀 Languages and Tools:
 
